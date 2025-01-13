@@ -1,13 +1,15 @@
-# Aplikasi Hapus Konten
+# Sistem Penghapusan Konten
+Aplikasi ini memungkinkan pengguna untuk menghapus konten tertentu dari file teks. Pengguna dapat memilih konten yang ingin dihapus dari daftar dan file akan diperbarui sesuai pilihan.
 
-## Cara Instalasi
-1. Unduh file executable dari folder `dist/`.
-2. Jalankan file dengan klik dua kali (Windows) atau `./main` (Linux/Mac).
+## Fitur Utama
+- Menampilkan daftar konten dari file `list_konten.txt`.
+- Menghapus konten dari file berdasarkan pilihan pengguna.
+- Membuat file baru jika file `list_konten.txt` tidak ada.
 
-## Cara Penggunaan
-1. Aplikasi akan menampilkan daftar konten dari file `list_konten.txt`.
-2. Pilih nomor konten yang ingin dihapus.
-3. Konten akan dihapus dari file.
+## Clone dan Instal
+git clone https://github.com/KyraNova/Sistem-Penghapusan-Konten
 
-## Catatan
-Pastikan file `list_konten.txt` berada di folder `data/` yang sama dengan aplikasi.
+## Kontak
+Email: naufaltunder27@gmail.com
+
+
